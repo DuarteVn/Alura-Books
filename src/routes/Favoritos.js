@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import styled from 'styled-components' 
+import styled from 'styled-components';
 import { deleteFavoritos, getFavoritos } from '../services/favoritos';
 import livroImg from '../imagens/livro.png'
 
